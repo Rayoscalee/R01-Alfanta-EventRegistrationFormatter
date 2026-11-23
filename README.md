@@ -1,4 +1,4 @@
-# Student Event Registration Formatter
+Student Event Registration Formatter
 
 ## Description
 This program formats student event registration details.
