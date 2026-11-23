@@ -1,21 +1,26 @@
 Student Event Registration Formatter
 
-Description
+Description:
+
 This program formats student event registration details.
 
-Language Used
+Language Used:
+
 Python
 
-String Feature Used
+String Feature Used:
+
 `strip()`, `title()`, `upper()`
 
-Date/Time Feature Used
+Date/Time Feature Used:
+
 `datetime` (`strftime()`)
 
-Version History
-- Version 1: Basic input and output
-- Version 2: Added string formatting
-- Version 3: Added date formatting
+Version History:
+ 
+ Version 1: Basic input and output
+ Version 2: Added string formatting
+ Version 3: Added date formatting
 
 Sample Output
 ```text
@@ -39,28 +44,34 @@ Date/Time Feature Used: datetime
 Registration record created successfully.
 ```
 
-Reflection
+Reflection:
+
  Student Event Registration Formatter
 
- Description
+ Description:
+
 This program formats student event registration details.
 
- Language Used
+ Language Used:
 Python
 
- String Feature Used
+ String Feature Used:
+
 `strip()`, `title()`, `upper()`
 
- Date/Time Feature Used
+ Date/Time Feature Used:
+
 `datetime` (`strftime()`)
 
- Version History
+ Version History:
+
 Version 1: Basic input and output
 Version 2: Added string formatting
 Version 3: Added date formatting
 
 
- Reflection
+ Reflection:
+
 In my first version, my program could only take inputs from the user and print them back out as they were typed, even if 
 the capitalization was messy. I improved my program by updating it step by step in gitHub to automatically clean the text 
 and format the event date. The string methods I used were `strip()`, `title()`, and `upper()` because they remove accidental spaces 
